@@ -5,12 +5,11 @@
   <img src="https://komarev.com/ghpvc/?username=itsgabrii&label=Profile%20views&color=0e75b6&style=flat" alt="itsgabrii" />
 </p>
 
-<p>
-  <img style="float:left; margin-right: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsgabrii&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <img style="float:right;" src="https://github-readme-stats.vercel.app/api?username=itsgabrii&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=itsgabrii&theme=darkhub&margin-w=15&no-bg=true&no-frame=true" alt="trophies" />
+  </a>
 </p>
-<div style="clear:both;"></div>
-
 
 ---
 
