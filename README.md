@@ -1,8 +1,8 @@
-<h1 align="center">Hola 👋, soy Gabri</h1>
-<h3 align="center">Estudiante de desarrollo multiplataforma con interés en programación, VR y análisis de datos</h3>
+<h1 align="center">Hello 👋, I’m Gabri</h1>
+<h3 align="center">Multiplatform Development Student with interests in programming, VR, and data analysis</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=itsgabrii&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="itsgabrii" />
+  <img src="https://komarev.com/ghpvc/?username=itsgabrii&label=Profile%20views&color=0e75b6&style=flat" alt="itsgabrii" />
 </p>
 
 <p align="center">
@@ -13,20 +13,20 @@
 
 ---
 
-🎓 Actualmente estudio un Grado Superior en **Desarrollo de Aplicaciones Multiplataforma (DAM)**.  
-💻 Apasionado por la **programación en Java y Python**, la automatización de tareas con **web scraping**, y el diseño de **interfaces VR** en Unity.  
-📊 También tengo experiencia con **Power BI**, bases de datos como **MariaDB y Oracle**, y herramientas de soporte técnico.  
-🎮 He desarrollado un pequeño proyecto en Unity durante un curso de realidad virtual.
+🎓 I am currently studying a Higher Vocational Training Degree in **Multiplatform Application Development (DAM)**.  
+💻 Passionate about **programming in Java and Python**, task automation with **web scraping**, and designing **VR interfaces** in Unity.  
+📊 I also have experience with **Power BI**, databases like **MariaDB and Oracle**, and technical support tools.  
+🎮 I developed a small project in Unity during a virtual reality course.
 
 ---
 
-<h3 align="left">Conecta conmigo:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <!-- Aquí puedes añadir enlaces sociales si los tienes -->
+  <!-- You can add social links here if you have any -->
   <a href="mailto:gici0668@gmail.com">📧 gici0668@gmail.com</a>
 </p>
 
-<h3 align="left">Lenguajes y herramientas que uso:</h3>
+<h3 align="left">Languages and tools I use:</h3>
 <p align="left">
   <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" /></a>
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" /></a>
@@ -46,5 +46,5 @@
 </p>
 
 <p>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=itsgabrii&show_icons=true&locale=es&theme=tokyonight" alt="GitHub Stats" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=itsgabrii&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
 </p>
